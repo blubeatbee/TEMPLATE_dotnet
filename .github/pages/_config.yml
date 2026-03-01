@@ -1,0 +1,5 @@
+title: Standard .NET Project Layout
+description: An opinionated .NET project layout inspired by industry patterns and best practices for .NET repositories.
+theme: null
+exclude:
+  - README.md

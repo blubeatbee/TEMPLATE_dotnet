@@ -27,8 +27,7 @@
 │  ├╶╶⚙️ appsettings.json
 │  ├╶╶📄 Program.cs
 │  ├╶╶📄 <project>.csproj.user
-│  ├╶╶📄 <project>.csproj
-│  └╶╶🌐 <project>.http
+│  └╶╶📄 <project>.csproj
 ├──📁 tests/
 ├──⚙️ .editorconfig
 ├──⚙️ .gitattributes
